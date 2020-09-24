@@ -4,7 +4,7 @@
              x:Class="TP02PDMI6.View.EstiloPadrao">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="SHIFT - Xamarin"
+            <Label Text="Tp-02 Feito por Ericles e Guilherme"
                    TextColor="Green"
                    VerticalOptions="Center" 
                    HorizontalOptions="Center" />
